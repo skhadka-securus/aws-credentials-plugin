@@ -133,6 +133,13 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <!-- https://mvnrepository.com/artifact/org.jenkins-ci.tools/maven-hpi-plugin -->
+<dependency>
+    <groupId>org.jenkins-ci.tools</groupId>
+    <artifactId>maven-hpi-plugin</artifactId>
+    <version>1.120</version>
+</dependency>
+
 
   <repositories>
     <repository>
